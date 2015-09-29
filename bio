@@ -1,0 +1,34 @@
+<html>
+    <head> 
+        <title>UGLY HISTORY</title>
+        <style type="text/css">
+            body {
+                cursor: url(kane.gif), auto;
+            }
+        </style>
+    </head>
+   
+    <audio controls autoplay hidden>
+      <source src="terriblelie.mp3" type="audio/mpeg">
+    </audio>
+
+    <body background="spookyhouse.gif">
+        <h1 style="color: white"><b><center>UGLY HOLIDAY</center></b></h1>
+        <h2 style="color: white"><center>these are ghost stories</center></h2>
+        <h3 style="color: white"><center>and you were always a ghost here</center></h3>
+        <marquee style="color: orange; font-size: 44pt" scrolldelay=30 scrollamount=30><B>A VERY UGLY HISTORY</B></marquee>
+        <br>
+        <br>
+        <br>
+
+        
+    </body>
+
+
+
+
+
+
+
+
+</html>
